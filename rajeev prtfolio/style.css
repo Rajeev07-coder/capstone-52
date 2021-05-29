@@ -1,0 +1,30 @@
+h1 {
+    color:white;
+}
+
+.header {
+    background-color: #6D6D6D;
+    display:flex;
+    justify-content: space-between;
+}
+
+.side-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+     
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+   background-color: #800000;
+    justify-content: space-evenly;
+    
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    background-color: #008000;
+}
